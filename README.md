@@ -8,7 +8,7 @@ It send your wan ip to http://ip-api.com/ and get your ip information like count
 Also you can get another ip information by enter ip in Another IP masked textbox and click get wan info.
 
 
-![Alt text](https://github.com/Pouya47/Wan-IP-Notifier/Capture.JPG?raw=true "Screenshot")
+![Alt text](https://github.com/Pouya47/Wan-IP-Notifier/Capture.JPG)
 
 
 Latest releases
