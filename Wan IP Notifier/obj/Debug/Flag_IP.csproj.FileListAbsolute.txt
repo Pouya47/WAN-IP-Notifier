@@ -1,0 +1,11 @@
+c:\users\pouya\documents\visual studio 2015\Projects\Flag_IP\Flag_IP\obj\Debug\Flag_IP.Properties.Resources.resources
+c:\users\pouya\documents\visual studio 2015\Projects\Flag_IP\Flag_IP\obj\Debug\Flag_IP.csproj.GenerateResource.Cache
+c:\users\pouya\documents\visual studio 2015\Projects\Flag_IP\Flag_IP\obj\Debug\Flag_IP.Form1.resources
+C:\Users\Pouya\documents\visual studio 2015\Projects\Flag_IP\Flag_IP\obj\Debug\Flag_IP.csprojResolveAssemblyReference.cache
+C:\Users\Pouya\documents\visual studio 2015\Projects\Flag_IP\Flag_IP\obj\Debug\Flag_IP.AboutBox1.resources
+C:\Users\Pouya\documents\visual studio 2015\Projects\Flag_IP\Flag_IP\bin\Debug\Ny WAN IP.exe.config
+C:\Users\Pouya\documents\visual studio 2015\Projects\Flag_IP\Flag_IP\bin\Debug\Ny WAN IP.exe
+C:\Users\Pouya\documents\visual studio 2015\Projects\Flag_IP\Flag_IP\bin\Debug\Ny WAN IP.pdb
+C:\Users\Pouya\documents\visual studio 2015\Projects\Flag_IP\Flag_IP\obj\Debug\Ny WAN IP.exe
+C:\Users\Pouya\documents\visual studio 2015\Projects\Flag_IP\Flag_IP\obj\Debug\Ny WAN IP.pdb
+C:\Users\Pouya\documents\visual studio 2015\Projects\Flag_IP\Flag_IP\obj\Debug\Flag_IP.loading.resources
